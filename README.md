@@ -72,7 +72,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 
-<a href="https://cburnside1385.github.io/Password_Genny/" target="_blank">React Portfolio</a>
+<a href="" target="_blank">React Portfolio</a>
 
 
 
