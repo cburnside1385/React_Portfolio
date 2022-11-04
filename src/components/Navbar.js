@@ -1,6 +1,5 @@
 import React from 'react';
 import { Navbar, Nav, Container,Form } from 'react-bootstrap';
-
 function Navigation() {   
 
     return (
@@ -8,7 +7,7 @@ function Navigation() {
         <Navbar expand='lg'>
             <Container fluid>
                 <Navbar>
-                    <h1> <img class="profilepic" src="./images/me.jpg" />Christopher Burnside</h1>
+                        <h1> <img class="profilepic" src="./images/me.jpg" /></h1>Christopher Burnside
                 </Navbar>
  
                 <Navbar.Toggle aria-controls='navbar' />
